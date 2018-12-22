@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Robert Sęk",
+    "classifications": [ "F#/FSI/Paket" ],
+    "identity": "Paket.FSharp",
+    "name": "FSharpPaket",
+    "shortName": "FSharpPaket",
+    "tags": {
+        "language": "F#",
+        "type": "project"
+    }
+}
