@@ -4,7 +4,7 @@
     <id>Paket.FSharp</id>
     <version>1.0.0</version>
     <authors>Robert Sęk</authors>
-    <owners>Robert sęk</owners>
+    <owners>Robert Sęk</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Simple template package with FSI and Paket</description>
     <releaseNotes>First release</releaseNotes>
