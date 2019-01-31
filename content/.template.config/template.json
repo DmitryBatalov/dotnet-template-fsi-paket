@@ -2,9 +2,9 @@
     "$schema": "http://json.schemastore.org/template",
     "author": "Robert Sęk",
     "classifications": [ "F#/FSI/Paket" ],
-    "identity": "Paket.FSharp",
-    "name": "FSharpPaket",
-    "shortName": "FSharpPaket",
+    "identity": "Paket.Fsi",
+    "name": "FsiPaket",
+    "shortName": "FsiPaket",
     "tags": {
         "language": "F#",
         "type": "project"
