@@ -1,4 +1,4 @@
-### FsiPaket dotnet tempalte
+### FsiPaket dotnet template
 
 ### Installation
 1. `dotnet new -i <FILE_SYSTEM_DIRECTORY>`
